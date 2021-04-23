@@ -30,7 +30,6 @@ this software in [AUTHORS.md](AUTHORS.md). Thanks to all of you!
 #                                    License
 <!--------------------------------------+-------------------------------------->
 
-Copyright (c) 2019, Andres Gongora - www.andresgongora.com
 Machine Perception and Intelligent Robotics (MAPIR) - http://mapir.uma.es
 
 * This software is released under a GPLv3 license.
