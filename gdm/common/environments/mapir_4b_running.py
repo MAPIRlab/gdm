@@ -41,4 +41,9 @@ if __name__ == "__main__":
 	print(len(mapir_4b.environments))
 	mapir_4b.environments[0].plot()
 
+	#i=0
+	#for env in  mapir_4b.environments:
+	#	env.gas.plot(vmax=1, save="/home/andy/tmp/lab4/" + str(i) + "_gt")
+	#	i += 1
+
 
